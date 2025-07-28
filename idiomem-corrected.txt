@@ -1,0 +1,1074 @@
+zero hour
+We have to be at the rendezvous point before zero hour
+O O O O O O O O O B-IDIOM I-IDIOM
+neither fish nor fowl
+This design is neither fish nor fowl ; it's completely unoriginal
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+never mind
+You forgot the keys , but never mind , I have a spare
+O O O O O O B-IDIOM I-IDIOM O O O O O
+next to nothing
+He sold his old car for next to nothing
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+Nine times out of ten
+Nine times out of ten , she arrives right on schedule
+B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O O
+nine to five
+She was tired of the daily nine to five grind
+O O O O O O B-IDIOM I-IDIOM I-IDIOM O
+no spring chicken
+He may be a bit older , but he is no spring chicken
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+not for a minute
+I didn 't believe his excuse , not for a minute
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+Not in a million years
+Would I ever do that ? Not in a million years
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+now or never
+We have to make this decision now , it 's now or never
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+dead and buried
+As far as I 'm concerned , that issue is dead and buried
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+dead meat
+If you tell anyone our secret , you are dead meat
+O O O O O O O O O B-IDIOM I-IDIOM
+dead right
+You were dead right about the traffic on this highway
+O O B-IDIOM I-IDIOM O O O O O O
+dead serious
+I am dead serious about quitting my job if things don 't improve
+O O B-IDIOM I-IDIOM O O O O O O O O O
+dead to the world
+After the marathon , he was dead to the world for twelve hours
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O
+dead wood
+The new CEO 's first task was to cut out the dead wood
+O O O O O O O O O O O B-IDIOM I-IDIOM
+dicing with death
+Driving that fast on an icy road is dicing with death
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+dirty work
+She always gets me to do the dirty work for her projects
+O O O O O O O B-IDIOM I-IDIOM O O O
+done to death
+That particular argument has been done to death in the media
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+dream come true
+Getting this job was a dream come true for me
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O
+dream ticket
+Many voters saw the two candidates as the dream ticket
+O O O O O O O O B-IDIOM I-IDIOM
+dressed up to the nines
+They went to the gala dressed up to the nines
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+race against time
+Finishing the report by the deadline was a race against time
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+rags to riches
+Her story is a classic rags to riches tale
+O O O O O B-IDIOM I-IDIOM I-IDIOM O
+rain or shine
+I 'll be at the game , rain or shine
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+red handed
+The security guard caught the shoplifter red handed
+O O O O O O B-IDIOM I-IDIOM
+red ink
+The company is drowning in red ink after a disastrous year
+O O O O O B-IDIOM I-IDIOM O O O O
+right as rain
+A good night 's sleep and I 'll be right as rain
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+root and branch
+The entire system needs to be reformed root and branch
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+rough time
+He 's having a rough time at his new school
+O O O O B-IDIOM I-IDIOM O O O O
+bad blood
+There has been bad blood between them for years
+O O O B-IDIOM I-IDIOM O O O O
+bag of bones
+After his long illness , he was just a bag of bones
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+bag of tricks
+The experienced negotiator had a whole bag of tricks
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+baptism of fire
+Her first day on the trading floor was a real baptism of fire
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+Beats me
+How did he solve the puzzle so quickly ? Beats me
+O O O O O O O O O B-IDIOM I-IDIOM
+behind bars
+The notorious criminal will spend the rest of his life behind bars
+O O O O O O O O O O B-IDIOM I-IDIOM
+behind closed doors
+The decision was made behind closed doors
+O O O O B-IDIOM I-IDIOM I-IDIOM
+bells and whistles
+My new car has all the bells and whistles
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+below the salt
+In the ship 's rigid hierarchy , junior sailors were seated below the salt
+O O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+between life and death
+The patient hovered between life and death for three days
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O
+beyond words
+Her generosity is beyond words
+O O O B-IDIOM I-IDIOM
+big bucks
+He made big bucks working in the tech industry
+O O B-IDIOM I-IDIOM O O O O O
+big deal
+Don't worry about it , it 's no big deal
+O O O O O O O O B-IDIOM I-IDIOM
+black and blue
+He was beaten black and blue by the thugs
+O O O B-IDIOM I-IDIOM I-IDIOM O O O
+blood is thicker than water
+He chose to help his cousin over his friend because blood is thicker than water
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+bolt from the blue
+The announcement of his resignation came as a bolt from the blue
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+bright as a button
+Her youngest child is as bright as a button
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+by the numbers
+The factory assembled the products by the numbers , without any creativity
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+face the music
+Sooner or later , you will have to face the music
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+fall for it
+He seemed so honest that I didn 't think I would fall for it
+O O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+fall from grace
+The politician 's fall from grace was swift after the scandal broke
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O O
+food for thought
+His lecture provided some interesting food for thought
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+for a song
+I bought this beautiful painting for a song
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+for love nor money
+You couldn 't get a ticket for love nor money
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+larger than life
+His personality was larger than life
+O O O B-IDIOM I-IDIOM I-IDIOM
+let sleeping dogs lie
+I know you are angry , but it is best to let sleeping dogs lie
+O O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+long in the tooth
+He 's a bit long in the tooth to be starting a new career
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O O
+vale of tears
+She viewed the world as a vale of tears
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+pain in the neck
+Doing all this paperwork is a real pain in the neck
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+picture of health
+With her glowing skin , she was the picture of health
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+poetic justice
+It was poetic justice when the greedy landlord was finally audited
+O O B-IDIOM I-IDIOM O O O O O O O
+poetry in motion
+The ballerina 's performance was poetry in motion
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+pressed for time
+I can't talk now , I 'm too pressed for time
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+safe and sound
+The children arrived home safe and sound after the storm
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+safety in numbers
+They decided to travel in a group , believing there was safety in numbers
+O O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+salt of the earth
+My grandfather is the salt of the earth and would help anyone
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+shelf life
+Fresh milk has a very short shelf life
+O O O O O O B-IDIOM I-IDIOM
+sink or swim
+It 's a tough market ; new businesses have to sink or swim
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+skin and bones
+The abandoned puppy was nothing but skin and bones
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+slice of life
+The film offers a fascinating slice of life in rural Japan
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+state of the art
+They use state of the art technology in their products
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+strapped for cash
+I can 't go out tonight , I 'm completely strapped for cash
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+just what the doctor ordered
+This cold drink is just what the doctor ordered on a hot day
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+ill -gotten gains
+He was arrested for living off his ill -gotten gains
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+in a fog
+He wandered around in a fog for days after the accident
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O
+in a nutshell
+To put it in a nutshell , the project was a disaster
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O O
+in bad shape
+The old car is in bad shape and needs major repairs
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+in cold blood
+The crime was committed in cold blood
+O O O O B-IDIOM I-IDIOM I-IDIOM
+in name only
+He is the company director in name only ; his wife makes all the decisions
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O O O O O
+in the bag
+Don 't worry , the victory is in the bag
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+in the best of health
+My grandmother is ninety but is still in the best of health
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+in the blink of an eye
+It all happened in the blink of an eye
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+In the cold light of day
+In the cold light of day , I realized I had made a mistake
+B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O O O O
+in the dock
+The accused man stood in the dock awaiting the verdict
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+In the eyes of the law
+In the eyes of the law , he is innocent until proven guilty
+B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O O O
+in the family way
+She confided in her mother that she was in the family way
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+in the nick of time
+The ambulance arrived in the nick of time
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+in the pink
+He has been in the pink ever since he retired
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+in the same boat
+We are all in the same boat with these budget cuts
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+in the wake of
+Several new regulations were introduced in the wake of the scandal
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O
+in the zone
+When I 'm writing code , I can really get in the zone
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+itchy feet
+After two years in the same job , she started to get itchy feet
+O O O O O O O O O O O O B-IDIOM I-IDIOM
+under canvas
+We spent our holiday under canvas in the national park
+O O O O B-IDIOM I-IDIOM O O O O
+under construction
+The new bridge is still under construction
+O O O O O B-IDIOM I-IDIOM
+under pressure
+She is under pressure to finish the project by Friday
+O O B-IDIOM I-IDIOM O O O O O O
+under the sun
+We visited every museum under the sun during our trip
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+under the table
+He was making illegal payments under the table
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+under the weather
+I 'm feeling a bit under the weather today
+O O O O O B-IDIOM I-IDIOM I-IDIOM O
+under the wire
+He submitted his application just under the wire
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+up in the air
+Our travel plans are still up in the air
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+That makes two of us
+You 're tired of this noise ? That makes two of us
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+the letter of the law
+The lawyer followed the letter of the law precisely
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O
+the men in grey suits
+The real decisions are made by the men in grey suits
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+the spirit of the law
+The judge considered the spirit of the law when making her decision
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+thumbs down
+The committee gave the new proposal a thumbs down
+O O O O O O O B-IDIOM I-IDIOM
+thumbs up
+My boss gave me the thumbs up on my project idea
+O O O O O B-IDIOM I-IDIOM O O O O
+time flies
+They say that time flies when you 're having fun
+O O O B-IDIOM I-IDIOM O O O O O
+time is money
+In the business world , time is money
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+down to a fine art
+She has complaining down to a fine art
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+to the hilt
+The house was mortgaged to the hilt
+O O O O B-IDIOM I-IDIOM I-IDIOM
+To this day
+To this day , no one knows what happened to him
+B-IDIOM I-IDIOM I-IDIOM O O O O O O O O
+tough love
+Sometimes you have to use tough love with your children
+O O O O O B-IDIOM I-IDIOM O O O
+made of money
+He can 't afford that car , he 's not made of money
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+magic touch
+She has a magic touch when it comes to gardening
+O O O B-IDIOM I-IDIOM O O O O O
+magic wand
+There is no magic wand to solve these complex problems
+O O O B-IDIOM I-IDIOM O O O O O
+man in the street
+The survey aimed to understand the opinions of the man in the street
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+middle of the road
+His political views are very middle of the road
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+money for old rope
+Getting paid for that simple task was money for old rope
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+money talks
+In the world of politics , money talks
+O O O O O O B-IDIOM I-IDIOM
+watch this space
+Our new product launches next month - watch this space
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+weak at the knees
+The thought of public speaking made me weak at the knees
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+weather permitting
+We will have the picnic tomorrow , weather permitting
+O O O O O O O B-IDIOM I-IDIOM
+white as a sheet
+She turned white as a sheet when she saw the ghost
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O
+than white ,
+The candidate presented himself as whiter than white , but he had secrets
+O O O O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+every cloud has a silver lining
+Losing my job was terrible , but every cloud has a silver lining
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+young at heart
+My grandmother is eighty , but she is still young at heart
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+get a life
+You sit around all day ; you should get a life
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+Give me five
+Great shot ! Give me five
+O O O B-IDIOM I-IDIOM I-IDIOM
+God forbid
+God forbid anything should happen to them
+B-IDIOM I-IDIOM O O O O O
+God knows
+God knows what time he will finally arrive
+B-IDIOM I-IDIOM O O O O O O
+golden age
+The 1950s are often considered a golden age for American cinema
+O O O O O O B-IDIOM I-IDIOM O O O
+green light
+We finally got the green light to start the project
+O O O O B-IDIOM I-IDIOM O O O O
+green with envy
+She was green with envy when she saw my new car
+O O B-IDIOM I-IDIOM I-IDIOM O O O O O O
+greener pastures
+He left his hometown for greener pastures in the city
+O O O O O B-IDIOM I-IDIOM O O O
+odds and ends
+I just need to pack a few odds and ends for the trip
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+off the beaten track
+We found a wonderful little restaurant off the beaten track
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+on a shoestring
+He started his business on a shoestring
+O O O O B-IDIOM I-IDIOM I-IDIOM
+on the horns of a dilemma
+She was on the horns of a dilemma , unable to decide which job to take
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O O O O
+on the run
+The escaped prisoner has been on the run for three days
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+on the same wavelength
+My sister and I are always on the same wavelength
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+on the table
+A new peace proposal is now on the table
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+on the wagon
+He has been on the wagon for six months now
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+once in a blue moon
+That kind of opportunity happens once in a blue moon
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+out of the blue
+The news of her promotion came completely out of the blue
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+over the hill
+He 's a bit over the hill to be playing professional football
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O O O
+a carrot and stick
+The company used a carrot and stick approach to motivate employees
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+castles in the air
+His plans to become a millionaire were just castles in the air
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+in the crossfire between
+The journalist was caught in the crossfire between the two warring factions
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+charity begins at home
+Some people believe that charity begins at home
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+close to home
+His critical comments about my town hit a little too close to home
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+cloud nine since
+She has been on cloud nine since she got the job
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+come hell or high water
+We will finish this project , come hell or high water
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+come rain or shine
+I 'll be there to support you , come rain or shine
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+cream of the crop
+This year's graduates are the cream of the crop
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+curiosity killed the cat
+I know you want to know , but curiosity killed the cat
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+breath of fresh air
+The new manager is a breath of fresh air in this stuffy office
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+clean bill of health
+The doctor gave him a clean bill of health after the checkup
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O
+new lease of life
+Retirement gave him a new lease of life
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+a steal
+At that low price , the car was a steal
+O O O O O O O O B-IDIOM I-IDIOM
+whole new ball game
+Switching to a new software is a whole new ball game
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+above suspicion
+The judge was known to be completely above suspicion
+O O O O O O O B-IDIOM I-IDIOM
+above the law
+He thinks his wealth means he is above the law
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+achilles heel
+His pride is his achilles heel
+O O O O B-IDIOM I-IDIOM
+act of god
+The insurance company claimed the earthquake was an act of god
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+against the clock
+We are working against the clock to meet the deadline
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+race against time
+It was a race against time to save the historic building
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O
+alive and kicking
+Despite the accident , he is alive and kicking
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+all that jazz
+I love swing music , dancing , and all that jazz
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+all the more
+His failure made me want to succeed all the more
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+along the lines
+The plan is developing along the lines we had hoped
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+an act of war
+The unprovoked invasion was considered an act of war
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+an arm and a leg
+A new car like that would cost an arm and a leg
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+eye for an eye
+The legal system is based on an eye for an eye
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+armed to the teeth
+The rebels were armed to the teeth
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+as poor as a church mouse
+He lost all his money and is now as poor as a church mouse
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+at hand
+Help is at hand if you need it
+O O B-IDIOM I-IDIOM O O O O
+at sixes and sevens
+The whole office was at sixes and sevens after the merger announcement
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+the drop of a hat
+She is very impulsive and will leave at the drop of a hat
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+at the wheel
+With the manager on vacation , I am at the wheel
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+hale and hearty
+My grandparents are still hale and hearty in their eighties
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+head over heels
+He fell head over heels for her the moment they met
+O O B-IDIOM I-IDIOM I-IDIOM O O O O O O
+heart of gold
+She has a heart of gold and is always helping others
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O
+How come
+How come you are so late today
+B-IDIOM I-IDIOM O O O O O
+jack of all trades
+He is a jack of all trades but a master of none
+O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O
+just in case
+I 'll bring an umbrella , just in case
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+just deserts
+After all his lies , he finally got his just deserts
+O O O O O O O O O B-IDIOM I-IDIOM
+gender bender
+The film was a quirky gender bender that challenged stereotypes
+O O O O O B-IDIOM I-IDIOM O O O
+glass ceiling
+She hit the glass ceiling in her career and couldn't get promoted
+O O O B-IDIOM I-IDIOM O O O O O O O
+great minds think alike
+You had the same idea as me , great minds think alike
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+gut feeling
+I had a gut feeling that something was wrong
+O O O B-IDIOM I-IDIOM O O O O
+dog days
+I hate the hot , lazy dog days of August
+O O O O O O B-IDIOM I-IDIOM O O
+daily grind
+She was tired of the same daily grind
+O O O O O O B-IDIOM I-IDIOM
+date rape
+The trial focused on the serious charge of date rape
+O O O O O O O O B-IDIOM I-IDIOM
+dead ringer
+They say he is a dead ringer for that famous actor
+O O O O O B-IDIOM I-IDIOM O O O O
+down to earth
+She 's a very practical and down to earth person
+O O O O O O B-IDIOM I-IDIOM I-IDIOM O
+pin money
+She earned a little pin money by knitting scarves
+O O O O B-IDIOM I-IDIOM O O O
+per se
+The argument is not about the cost per se , but about the principle
+O O O O O O O B-IDIOM I-IDIOM O O O O O
+perfect pitch
+She is a talented singer with perfect pitch
+O O O O O O B-IDIOM I-IDIOM
+pie in the sky
+His dream of a world without conflict is pie in the sky
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+piece of cake
+For an experienced baker , this recipe is a piece of cake
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+pigs might fly
+He 'll tidy his room when pigs might fly
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+practice makes perfect
+You 'll learn the violin , remember that practice makes perfect
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+pull yourself together
+I know it 's hard , but you need to pull yourself together
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+labour of love
+Restoring the old house was a true labour of love
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+love child
+He found out later in life that he was a love child
+O O O O O O O O O O B-IDIOM I-IDIOM
+live and learn
+Don 't worry about the mistake , just live and learn
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+Last but not least
+Last but not least , I 'd like to thank my family
+B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O O O O
+bygones be bygones
+Let 's not argue about the past and instead let bygones be bygones
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+level playing field
+The new rules aim to create a level playing field for all companies
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+easier said than done
+Changing the system is easier said than done
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+elbow grease
+Fixing this old engine will require a lot of elbow grease
+O O O O O O O O O B-IDIOM I-IDIOM
+ethnic cleansing
+The report documented the horrific acts of ethnic cleansing
+O O O O O O O B-IDIOM I-IDIOM
+come what may
+I will be there to support you , come what may
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+cutting edge
+Their company is on the cutting edge of technology
+O O O O O B-IDIOM I-IDIOM O O
+calendar year
+The report covers the entire calendar year from January to December
+O O O O O B-IDIOM I-IDIOM O O O O
+canteen culture
+The office was known for its relaxed canteen culture
+O O O O O O O B-IDIOM I-IDIOM
+carpe diem
+Let 's just enjoy the moment and carpe diem
+O O O O O O O B-IDIOM I-IDIOM
+cheek by jowl
+The tiny apartments were built cheek by jowl
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+chicken feed
+The salary they offered was just chicken feed
+O O O O O O B-IDIOM I-IDIOM
+close call
+The car crash was a very close call for him
+O O O O O O B-IDIOM I-IDIOM O O
+cock and bull story
+His excuse was a long cock and bull story
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+icing on the cake
+The surprise promotion was the icing on the cake
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+in a trice
+She finished her work in a trice
+O O O O B-IDIOM I-IDIOM I-IDIOM
+in the pipeline
+There are several new projects in the pipeline for next year
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+ignorance is bliss
+He thinks that sometimes ignorance is bliss
+O O O O B-IDIOM I-IDIOM I-IDIOM
+in cahoots with
+The suspect was working in cahoots with the security guard
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+in limbo
+Our plans are in limbo until we get the funding
+O O O B-IDIOM I-IDIOM O O O O O
+in the heat of the moment
+He said some things in the heat of the moment that he later regretted
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+inside job
+The police suspected that the robbery was an inside job
+O O O O O O O O B-IDIOM I-IDIOM
+a red flag
+His constant tardiness was a red flag for the manager
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+an ugly duckling
+She felt like an ugly duckling in her glamorous family
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+blessing in disguise
+Losing that job was a blessing in disguise because I found a better one
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O O O O
+a fate worse than death
+For a book lover , a world without books is a fate worse than death
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+fish out of water
+He felt like a fish out of water at the formal event
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+flash in the pan
+His early success turned out to be just a flash in the pan
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+a fly on the wall
+I would love to have been a fly on the wall during that meeting
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O
+foot in the door
+This internship could be a foot in the door for a great career
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+a load of cobblers
+His explanation was clearly a load of cobblers
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+safe pair of hands
+You can trust him with the project , he 's a safe pair of hands
+O O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+a sea change
+There has been a sea change in attitudes towards the environment
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O
+shot in the arm
+The new funding was a shot in the arm for the struggling company
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+a sight for sore eyes
+After weeks in the desert , a cool drink was a sight for sore eyes
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+slap on the wrist
+He only got a slap on the wrist for his mistake
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O
+a sorry sight
+The neglected garden was a sorry sight
+O O O O B-IDIOM I-IDIOM I-IDIOM
+storm in a teacup
+Their argument was just a storm in a teacup
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+about face
+The general ordered his troops to do an about face
+O O O O O O O O B-IDIOM I-IDIOM
+absence makes the heart grow fonder
+They say absence makes the heart grow fonder , but I miss you
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O
+across the board
+The pay cuts were implemented across the board
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+actions speak louder than words
+Don 't just promise , remember actions speak louder than words
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+al fresco
+We had dinner al fresco on the patio
+O O O B-IDIOM I-IDIOM O O O
+All in all
+All in all , it was a very successful event
+B-IDIOM I-IDIOM I-IDIOM O O O O O O O
+all set
+Are you all set for the big trip tomorrow
+O O B-IDIOM I-IDIOM O O O O O
+supported her all
+He supported her all the way through her difficult recovery
+O B-IDIOM I-IDIOM I-IDIOM O O O O O O
+all thumbs
+I tried to fix the watch , but I'm all thumbs
+O O O O O O O O O B-IDIOM I-IDIOM
+all together now
+Let 's sing the chorus now , all together now
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+alphabet soup
+The government report was a confusing alphabet soup of acronyms
+O O O O O O B-IDIOM I-IDIOM O O
+as high as a kite
+After the party , he was as high as a kite
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+make hay while the sun shines
+We need to finish this today , so make hay while the sun shines
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+many happy returns
+We wish you many happy returns on your birthday
+O O O B-IDIOM I-IDIOM I-IDIOM O O O
+mea culpa
+The politician issued a statement of mea culpa for his error
+O O O O O O B-IDIOM I-IDIOM O O O
+mumbo jumbo
+His speech was just a lot of mumbo jumbo
+O O O O O O O B-IDIOM I-IDIOM
+nest egg
+They are saving money to build a nest egg for retirement
+O O O O O O O B-IDIOM I-IDIOM O O
+real never-never land
+He lives in a fantasy world , a real never-never land
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+nitty gritty
+Let's get down to the nitty gritty of the contract
+O O O O O B-IDIOM I-IDIOM O O O
+no rush
+Take your time , there 's no rush
+O O O O O O B-IDIOM I-IDIOM
+no strings attached
+The loan was offered with no strings attached
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+north and south
+The new policy affects everyone , from north and south
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+not all there
+He's a bit strange , perhaps a little not all there
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+now and then
+We see each other every now and then for coffee
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O
+nuts and bolts
+Let 's discuss the nuts and bolts of the plan
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+fancy free
+She lived a carefree and fancy free life
+O O O O O B-IDIOM I-IDIOM O
+filthy rich
+He became filthy rich after inventing the new gadget
+O O B-IDIOM I-IDIOM O O O O O
+familiarity breeds contempt
+In the small town , familiarity breeds contempt
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+Fair enough
+You don 't want to come ? Fair enough , I 'll go alone
+O O O O O O O B-IDIOM I-IDIOM O O O O O
+feeding frenzy
+The reporters engaged in a feeding frenzy over the scandal
+O O O O O B-IDIOM I-IDIOM O O O
+first among equals
+She was the first among equals in the research team
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+a first come first served
+Tickets will be sold on a first come first served basis
+O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM O
+fit as a fiddle
+He exercises every day and is fit as a fiddle
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+flea market
+I love searching for bargains at the local flea market
+O O O O O O O O B-IDIOM I-IDIOM
+flesh and blood
+You can 't choose your family , they are your flesh and blood
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+flotsam and jetsam
+We salvaged the flotsam and jetsam that washed ashore
+O O O B-IDIOM I-IDIOM I-IDIOM O O O
+building blocks
+These principles are the building blocks of our society
+O O O O B-IDIOM I-IDIOM O O O
+back to the drawing board
+The first prototype failed , so it 's back to the drawing board
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+be a sport
+Don 't be selfish , be a sport and let him play
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+behave yourself
+The teacher told the naughty child to behave yourself
+O O O O O O O B-IDIOM I-IDIOM
+better late than never
+Your apology is late , but better late than never
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+beyond price
+Her loyalty is beyond price
+O O O B-IDIOM I-IDIOM
+Bottle and Glass
+The pub's name was the Bottle and Glass
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+brass tacks
+Let 's get down to brass tacks and talk about the cost
+O O O O O B-IDIOM I-IDIOM O O O O O
+break a leg
+Good luck in your performance tonight , break a leg
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+bricks and mortar
+They invested their savings in bricks and mortar
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+business as usual
+Despite the crisis , it was business as usual at the office
+O O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+By and large
+By and large , the event was a great success
+B-IDIOM I-IDIOM I-IDIOM O O O O O O O
+volte face
+The government did a complete volte face on the policy
+O O O O O B-IDIOM I-IDIOM O O O
+old hat
+That style of music is really old hat now
+O O O O O O B-IDIOM I-IDIOM O
+on the rocks
+Their marriage is on the rocks
+O O O B-IDIOM I-IDIOM I-IDIOM
+off the hook
+Thanks to your help , I 'm off the hook for my mistake
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+off the record
+This conversation is strictly off the record
+O O O O B-IDIOM I-IDIOM I-IDIOM
+on cloud nine
+She was on cloud nine after winning the award
+O O B-IDIOM I-IDIOM I-IDIOM O O O O
+the ball and
+He 's really on the ball and never misses a detail
+O O O O B-IDIOM I-IDIOM I-IDIOM O O O O
+on the fence
+She 's still on the fence about which university to choose
+O O O B-IDIOM I-IDIOM I-IDIOM O O O O O
+on the record
+He agreed to be interviewed on the record
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+on the same page
+We need to ensure everyone is on the same page
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+on thin ice
+You 're on thin ice after that last mistake
+O O B-IDIOM I-IDIOM I-IDIOM O O O O
+open warfare
+The two companies have declared open warfare
+O O O O O B-IDIOM I-IDIOM
+out of sight
+He disappeared and was out of sight for years
+O O O O B-IDIOM I-IDIOM I-IDIOM O O
+out of this world
+The view from the mountaintop was out of this world
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+out on the town
+They went out on the town to celebrate their anniversary
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O
+over the top
+His reaction to the news was completely over the top
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+way around
+We need to find a way around this problem
+O O O O O B-IDIOM I-IDIOM O O
+well read
+She is very well read and knows a lot about history
+O O O B-IDIOM I-IDIOM O O O O O O
+washed up
+After that scandal , his political career is washed up
+O O O O O O O O B-IDIOM I-IDIOM
+water under the bridge
+Don 't worry about that old argument , it 's water under the bridge
+O O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+well hung
+The art gallery was criticized for displaying paintings of well hung men
+O O O O O O O O O B-IDIOM I-IDIOM O
+wet behind the ears
+He 's just a rookie and still wet behind the ears
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+wild and woolly
+The story he told was a bit wild and woolly
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+wishful thinking
+Hoping to win the lottery is just wishful thinking
+O O O O O O O B-IDIOM I-IDIOM
+word for word
+He copied the text word for word
+O O O O B-IDIOM I-IDIOM I-IDIOM
+hell bent
+She was hell bent on getting her revenge
+O O B-IDIOM I-IDIOM O O O O
+very high and mighty
+He 's very high and mighty since his promotion
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O
+high season
+The hotels are all full during the high season
+O O O O O O O B-IDIOM I-IDIOM
+hocus pocus
+The magician 's trick was just hocus pocus
+O O O O O O B-IDIOM I-IDIOM
+hold on a second
+Can you hold on a second while I find the file
+O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM O O O O O
+hold your horses
+Don 't rush into it , hold your horses
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+the holy grail
+Finding a cure for cancer is the holy grail of medical research
+O O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+the upper crust
+The wealthy elite are often called the upper crust
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+Technically speaking
+Technically speaking , a tomato is a fruit , not a vegetable
+B-IDIOM I-IDIOM O O O O O O O O O O
+Thank goodness
+Thank goodness you arrived safely
+B-IDIOM I-IDIOM O O O
+the acid test
+The final exam will be the acid test of your knowledge
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+the best of both worlds
+Working from home offers the best of both worlds
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM I-IDIOM
+the last straw
+His rude comment was the last straw
+O O O O B-IDIOM I-IDIOM I-IDIOM
+third time lucky
+I failed twice , but maybe third time lucky
+O O O O O O B-IDIOM I-IDIOM I-IDIOM
+through thick and thin
+They have been friends through thick and thin
+O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+tongue in cheek
+His compliment was clearly tongue in cheek
+O O O O B-IDIOM I-IDIOM I-IDIOM
+tour de force
+Her performance in the play was a real tour de force
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+trouble and strife
+He jokingly referred to his wife as his trouble and strife
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+rat race
+She decided to leave the rat race and move to the country
+O O O O O B-IDIOM I-IDIOM O O O O O
+ray of sunshine
+Her cheerful daughter is a ray of sunshine in her life
+O O O O O B-IDIOM I-IDIOM I-IDIOM O O O
+red letter day
+The day they got married was a real red letter day
+O O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+rest up
+You look tired , you should go rest up
+O O O O O O O B-IDIOM I-IDIOM
+ring fencing
+The government is ring fencing the funds for education
+O O O B-IDIOM I-IDIOM O O O O
+round the clock
+He works round the clock to support his family
+O O B-IDIOM I-IDIOM I-IDIOM O O O O
+rule of thumb
+As a rule of thumb , you should add salt at the end
+O O B-IDIOM I-IDIOM I-IDIOM O O O O O O O O
+young blood
+The team needs some young blood to energize it
+O O O O B-IDIOM I-IDIOM O O O
+You bet
+Are you coming to the party ? You bet
+O O O O O O O B-IDIOM I-IDIOM
+salad days
+He remembered the salad days of his youth fondly
+O O O B-IDIOM I-IDIOM O O O O
+self explanatory
+The instructions were self explanatory and easy to follow
+O O O B-IDIOM I-IDIOM O O O O
+silver lining
+Look for the silver lining in every difficult situation
+O O O B-IDIOM I-IDIOM O O O O
+silver bullet
+There is no silver bullet to solve this complex issue
+O O O B-IDIOM I-IDIOM O O O O O
+sixth sense
+She had a sixth sense that something bad was about to happen
+O O O B-IDIOM I-IDIOM O O O O O O O
+skid row
+After losing his job , he ended up on skid row
+O O O O O O O O O B-IDIOM I-IDIOM
+snowed under
+I am completely snowed under with work this week
+O O O B-IDIOM I-IDIOM O O O O
+So far so good
+How is the project going ? So far so good
+O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+son of a gun
+Well I 'll be , you old son of a gun
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+sooner or later
+We will have to make a decision sooner or later
+O O O O O O O B-IDIOM I-IDIOM I-IDIOM
+stranger things have happened
+I didn 't expect him to win , but stranger things have happened
+O O O O O O O O O B-IDIOM I-IDIOM I-IDIOM I-IDIOM
+syrup of figs
+The old medicine tasted like syrup of figs
+O O O O O B-IDIOM I-IDIOM I-IDIOM
+quality time
+It is important to spend quality time with your family
+O O O O O B-IDIOM I-IDIOM O O O

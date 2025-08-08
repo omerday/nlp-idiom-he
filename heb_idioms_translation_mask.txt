@@ -1,0 +1,230 @@
+The English translation of אבדו עשתונותיו is: <mask>
+The English translation of אבן נגף is: <mask>
+The English translation of כאבן שאין לה הופכין. is: <mask>
+The English translation of אוצר בלום. is: <mask>
+The English translation of באותיות של טל ומטר. is: <mask>
+The English translation of באותיות של קידוש לבנה. is: <mask>
+The English translation of כאחד בפה ואחד בלב. is: <mask>
+The English translation of אין לאל ידי is: <mask>
+The English translation of אין עשן בלא אש. is: <mask>
+The English translation of אין תוכו כברו, is: <mask>
+The English translation of איפכא מסתברא. is: <mask>
+The English translation of לא אל הנער הזה התפללתי. is: <mask>
+The English translation of אני ואפסי עוד. is: <mask>
+The English translation of אסקופה הנדרסת. is: <mask>
+The English translation of בא אל אבותיו is: <mask>
+The English translation of בא בימים, is: <mask>
+The English translation of באו מים עד נפש is: <mask>
+The English translation of בור ועם הארץ. is: <mask>
+The English translation of כבור סוד שאינו מאבד טפה. is: <mask>
+The English translation of השיטין הבינותי is: <mask>
+The English translation of בכיה לדורות. is: <mask>
+The English translation of בלא כחל ובלא שרק. is: <mask>
+The English translation of בעידנא דריתחא. is: <mask>
+The English translation of לבה, והיא is: <mask>
+The English translation of לישראל] גמרו is: <mask>
+The English translation of גמרה עליו את ההלל. is: <mask>
+The English translation of דברים בגו. is: <mask>
+The English translation of את רגליהם is: <mask>
+The English translation of ודי לחכימא ברמיזא. is: <mask>
+The English translation of דיה לצרה בשעתה. is: <mask>
+The English translation of דרך כוכב is: <mask>
+The English translation of הגיעו מים עד נפש is: <mask>
+The English translation of להחזיק בקרנות המזבח is: <mask>
+The English translation of להחזיר עטרה לישנה. is: <mask>
+The English translation of היו כמרקחה is: <mask>
+The English translation of היתה לזרא is: <mask>
+The English translation of לצנינים בעיני is: <mask>
+The English translation of פניך ברבים. is: <mask>
+The English translation of דעתם של is: <mask>
+The English translation of חרס בידו. [PAD] is: <mask>
+The English translation of הפך את הקערה על is: <mask>
+The English translation of הצבי ישראל על במותיך חלל איך נפלו גבורים!! is: <mask>
+The English translation of הקדיחה תבשילה ברבים. is: <mask>
+The English translation of הקשר הגורדי is: <mask>
+The English translation of עז בנפשי ופניתי is: <mask>
+The English translation of וגם ירשת? [PAD] is: <mask>
+The English translation of יהבם על is: <mask>
+The English translation of מנגד בעת הגנתם is: <mask>
+The English translation of לא נפל רחוק מן העץ. [PAD] is: <mask>
+The English translation of ישרון ויבעט. [PAD] is: <mask>
+The English translation of ותו לא. is: <mask>
+The English translation of וסובא. [PAD] is: <mask>
+The English translation of זעקה מרה וגדולה כי is: <mask>
+The English translation of זעקת שבר is: <mask>
+The English translation of אישים, ואין is: <mask>
+The English translation of חדשים לבקרים. is: <mask>
+The English translation of לסורו. [PAD] is: <mask>
+The English translation of בחרוף נפש is: <mask>
+The English translation of חמד לה לצון. is: <mask>
+The English translation of גרם הוא, is: <mask>
+The English translation of חמת מלאה מים. is: <mask>
+The English translation of שוטה הוא, is: <mask>
+The English translation of חסר פניות. is: <mask>
+The English translation of כחרב פיפיות, is: <mask>
+The English translation of תנך is: <mask>
+The English translation of טחו עיניו מראות is: <mask>
+The English translation of [PAD] [PAD] [PAD] is: <mask>
+The English translation of טמן ידו בצלחת והושטתי is: <mask>
+The English translation of ראשו בחול, כאלו is: <mask>
+The English translation of טעם לפגם. is: <mask>
+The English translation of מיתה, אך is: <mask>
+The English translation of באמרו: יגעת ומצאת is: <mask>
+The English translation of יד לפה. is: <mask>
+The English translation of יד. [PAD] [PAD] is: <mask>
+The English translation of היתה במעל, הוא is: <mask>
+The English translation of על העליונה. is: <mask>
+The English translation of יודע צדיק נפש בהמתו, is: <mask>
+The English translation of יוצא חלציו is: <mask>
+The English translation of יצא מהעסקה בשן is: <mask>
+The English translation of הפסדו בשכרו, כיוון is: <mask>
+The English translation of יצא חוצץ נגד is: <mask>
+The English translation of לתרבות רעה. [PAD] is: <mask>
+The English translation of יצא למרחוק, is: <mask>
+The English translation of נפשו להטיס is: <mask>
+The English translation of יצאו לו מוניטין is: <mask>
+The English translation of מים על ידיו של is: <mask>
+The English translation of את ההדורים ביניהם. is: <mask>
+The English translation of ישר כח is: <mask>
+The English translation of יש לאל ידי is: <mask>
+The English translation of יש לו מהלכים is: <mask>
+The English translation of ישבו על המדוכה is: <mask>
+The English translation of לשבת תחת גפנו ותחת תאנתו is: <mask>
+The English translation of את כבשת is: <mask>
+The English translation of כבש פניו בקרקע, is: <mask>
+The English translation of כזה ראה וקדש. is: <mask>
+The English translation of כחמר ביד היוצר, is: <mask>
+The English translation of כיד המלך. is: <mask>
+The English translation of כל דאלים גבר. is: <mask>
+The English translation of קצוי ארץ. [PAD] is: <mask>
+The English translation of כלאחר יד, is: <mask>
+The English translation of כלכל את דבריו is: <mask>
+The English translation of כמהלך קליפת השום. is: <mask>
+The English translation of כמי שכפאו שד. is: <mask>
+The English translation of היו כמרקחה is: <mask>
+The English translation of כעניים בפתח is: <mask>
+The English translation of חיה יהיה is: <mask>
+The English translation of [PAD] [PAD] is: <mask>
+The English translation of השום. [PAD] is: <mask>
+The English translation of כקריעת ים סוף. is: <mask>
+The English translation of תרנגולת. [PAD] is: <mask>
+The English translation of אותה על לוח לבי. is: <mask>
+The English translation of כתמול שלשום. is: <mask>
+The English translation of טמן ידו בצלחת והושטתי is: <mask>
+The English translation of בפז, אמר ראש is: <mask>
+The English translation of אליו אלא משנאתו למאמן הקודם שהיה יריבו. is: <mask>
+The English translation of מדבשך ולא מעקצך. [PAD] is: <mask>
+The English translation of מצאתי את ידי ואת רגלי. is: <mask>
+The English translation of לחה, שעוריו מרתקים. is: <mask>
+The English translation of תחסום שור בדישו, והוא is: <mask>
+The English translation of נאסף אל אבותיו is: <mask>
+The English translation of הלכו לאורו is: <mask>
+The English translation of בלגיון של מלך. is: <mask>
+The English translation of עולם. [PAD] is: <mask>
+The English translation of ולא למעשה. [PAD] is: <mask>
+The English translation of להוציא את הערמונים מהאש. is: <mask>
+The English translation of לוט בערפל. is: <mask>
+The English translation of לטש את עיניו is: <mask>
+The English translation of ליבו סמוך ובטוח is: <mask>
+The English translation of בליל שמורים. is: <mask>
+The English translation of לכל מאן דבעי. is: <mask>
+The English translation of למען יראו וייראו. is: <mask>
+The English translation of השמש. is: <mask>
+The English translation of הולך לפניו, וחולים is: <mask>
+The English translation of חטאת רובץ. is: <mask>
+The English translation of לצאת ידי חובה. is: <mask>
+The English translation of לקח את רגליו is: <mask>
+The English translation of לשון המאזנים, ובעזרתה is: <mask>
+The English translation of לו מאחוריו קפה של שרצים. [PAD] is: <mask>
+The English translation of הפורח באויר. is: <mask>
+The English translation of מגלה טפח ומכסה טפחיים is: <mask>
+The English translation of מדחי אל דחי, is: <mask>
+The English translation of מודה ועזב ירחם. is: <mask>
+The English translation of שוקת שבורה. [PAD] is: <mask>
+The English translation of עוד במושב is: <mask>
+The English translation of מטוב עד רע. is: <mask>
+The English translation of מלוא כל הארץ כבודו, is: <mask>
+The English translation of מלחכי פנכה, is: <mask>
+The English translation of על קיומה. is: <mask>
+The English translation of מנוחתו עדן, is: <mask>
+The English translation of בלבד. [PAD] is: <mask>
+The English translation of בצהל], מסלתה is: <mask>
+The English translation of יצא מתוק. [PAD] is: <mask>
+The English translation of במפח נפש is: <mask>
+The English translation of מפה אל פה. is: <mask>
+The English translation of מצדיקי הרבים. is: <mask>
+The English translation of כמציל עשוק מיד עשקו. is: <mask>
+The English translation of עשיתי מקח is: <mask>
+The English translation of קסמים, הכל is: <mask>
+The English translation of נכסים מרבה דאגה. [PAD] is: <mask>
+The English translation of משאת נפשם is: <mask>
+The English translation of משענת קנה רצוץ. is: <mask>
+The English translation of ענה: משנה סדורה is: <mask>
+The English translation of שלא לשמה בא לשמה. [PAD] is: <mask>
+The English translation of נאה דורש ונאה מקיים, is: <mask>
+The English translation of נאה דורש ואין נאה מקיים, is: <mask>
+The English translation of נאסף אל אבותיו is: <mask>
+The English translation of שהרי נבואה ניתנה is: <mask>
+The English translation of נכנס בעובי הקורה is: <mask>
+The English translation of נכסי צאן ברזל is: <mask>
+The English translation of נר לרגליו, is: <mask>
+The English translation of כיצד איש is: <mask>
+The English translation of ורוח וגשם אין, כיוון שהוא is: <mask>
+The English translation of נתלה באילן גדול, is: <mask>
+The English translation of סדום ועמורה. is: <mask>
+The English translation of סלע המחלוקת is: <mask>
+The English translation of סתמה את הגולל is: <mask>
+The English translation of כי ימלוך. [PAD] is: <mask>
+The English translation of כמנהגו נוהג. [PAD] is: <mask>
+The English translation of נפלאות לבדו. [PAD] is: <mask>
+The English translation of עזר כנגדו is: <mask>
+The English translation of ועידנים. is: <mask>
+The English translation of על אפו ועל חמתו is: <mask>
+The English translation of תרנגולת. [PAD] is: <mask>
+The English translation of עברי פי פחת is: <mask>
+The English translation of על פיו ישק is: <mask>
+The English translation of ולא ויתר is: <mask>
+The English translation of עקב אכילס is: <mask>
+The English translation of כנפים. [PAD] [PAD] is: <mask>
+The English translation of לילות כימים בקליטת is: <mask>
+The English translation of עשו לנפשות is: <mask>
+The English translation of לבלי חת. [PAD] is: <mask>
+The English translation of בפכים קטנים, is: <mask>
+The English translation of פני הדור כפני הכלב. is: <mask>
+The English translation of פקח את עיניו is: <mask>
+The English translation of פרה חולבת. is: <mask>
+The English translation of פרח לי מהזכרון. is: <mask>
+The English translation of פתח בכד וסים בחבית. is: <mask>
+The English translation of פתחו פיהם לאלמים, is: <mask>
+The English translation of צעק חמס. is: <mask>
+The English translation of בצרות עין is: <mask>
+The English translation of קוטל קנים, is: <mask>
+The English translation of לו מאחוריו קפה של שרצים. [PAD] is: <mask>
+The English translation of קוצו של יוד. is: <mask>
+The English translation of קורע לב. is: <mask>
+The English translation of קפא על שמריו, is: <mask>
+The English translation of קצרה היריעה is: <mask>
+The English translation of קראו תגר is: <mask>
+The English translation of לחפר בו. [PAD] is: <mask>
+The English translation of קרוב היום is: <mask>
+The English translation of ראה את הנולד, is: <mask>
+The English translation of ראשו בעננים. is: <mask>
+The English translation of רחץ בנקיון כפיו, is: <mask>
+The English translation of בצוארו. [PAD] is: <mask>
+The English translation of שאלת תם. is: <mask>
+The English translation of שבע רצון is: <mask>
+The English translation of חמד. [PAD] is: <mask>
+The English translation of את כספו על קרן הצבי. is: <mask>
+The English translation of שמו נפשם בכפם is: <mask>
+The English translation of שמו של הרופא הולך is: <mask>
+The English translation of שמחה לאיד is: <mask>
+The English translation of לעזאזל של is: <mask>
+The English translation of ודברים אחדים. [PAD] [PAD] is: <mask>
+The English translation of בשפת חלקות. is: <mask>
+The English translation of שק ואפר. is: <mask>
+The English translation of שקלא וטריא, is: <mask>
+The English translation of שרגא בטיהרא. is: <mask>
+The English translation of תלה את הקולר בצווארו is: <mask>
+The English translation of הם רוצים לתפוס את החבל is: <mask>
+The English translation of תצילנה שתי אזניהם. is: <mask>
+The English translation of תקעו כף, is: <mask>
